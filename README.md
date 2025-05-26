@@ -38,3 +38,8 @@ Cada projeto terá instruções específicas, mas no geral:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/Java-selenium.git
+
+   📝 Observações
+Este repositório está em constante evolução.
+
+Sinta-se à vontade para sugerir melhorias ou reportar bugs.
