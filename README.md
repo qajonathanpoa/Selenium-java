@@ -1,4 +1,4 @@
-# 🧪 Java + Selenium
+# 🧪 Java + Selenium-Tests
 
 Repositório dedicado a projetos e exemplos desenvolvidos com **Java** e **Selenium WebDriver**. Aqui você encontrará automações criadas durante meu processo de aprendizado e evolução como QA Engineer / Teste Automatizador.
 
