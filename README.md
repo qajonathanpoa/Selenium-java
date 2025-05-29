@@ -14,7 +14,10 @@ Este repositório tem como objetivo reunir scripts e projetos de automação de 
 
 Cada projeto dentro deste repositório está em sua própria pasta, com seu respectivo README explicando o cenário de teste, como executar e o que está sendo validado.
 
-## 📁 Estrutura
+## 📁 Projetos
+
+## 📁 [Projeto Automação-WEB Julio de lima](https://github.com/qajonathanpoa/juliodelimamaven)
+
 
 ## 🚀 Tecnologias Utilizadas
 
